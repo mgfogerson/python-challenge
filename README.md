@@ -1,1 +1,2 @@
 # python-challenge
+This was a real challenge for me, and I found myself fairly stumped for too long, as can be noted from how late this work is. Nevertheless, I found a lot of online resources that filled in gaps that were missing in my code-writing, and managed to create outputs similar to the Readme file's. After completing the first challenge over several days, the second challenge felt more natural, and I believe it will be easier to catch up now that I've gone through this assignment. 
